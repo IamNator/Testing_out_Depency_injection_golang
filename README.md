@@ -1,2 +1,2 @@
-# Testing_out_Dependency_injection_golang
+# Testing out Dependency injection golang
 Playing around with dependency injection in Golang
